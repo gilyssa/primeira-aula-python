@@ -18,6 +18,9 @@ result = 5 ** 3
 #%para módulo (retorna o restante)
 #**para exponenciação
 
+#teste analise
+user = 'lyssateste'
+user = 'lyssateste2'
 
 
 
